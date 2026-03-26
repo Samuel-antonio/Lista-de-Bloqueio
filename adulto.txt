@@ -955,8 +955,6 @@
 127.0.0.1 www.webcamgirl.com
 127.0.0.1 webcamteen.com
 127.0.0.1 www.webcamteen.com
-127.0.0.1 live.com
-127.0.0.1 www.live.com
 127.0.0.1 livesex.com
 127.0.0.1 www.livesex.com
 127.0.0.1 liveporn.com
