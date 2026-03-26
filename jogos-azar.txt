@@ -1,618 +1,335 @@
  Title: Jogos de Azar
-# Bet365
 ||bet365.com
 ||bet365.com.br
 ||www.bet365.com
 ||www.bet365.com.br
-
-# Betano
 ||betano.com
 ||betano.com.br
 ||www.betano.com
 ||www.betano.com.br
-
-# Sportingbet
 ||sportingbet.com
 ||sportingbet.com.br
 ||www.sportingbet.com
 ||www.sportingbet.com.br
-
-# Betfair
 ||betfair.com
 ||betfair.com.br
 ||www.betfair.com
 ||www.betfair.com.br
-
-# Bwin
 ||bwin.com
 ||bwin.com.br
 ||www.bwin.com
 ||www.bwin.com.br
-
-# 1xBet
 ||1xbet.com
 ||1xbet.com.br
 ||www.1xbet.com
 ||www.1xbet.com.br
-
-# 888sport
 ||888sport.com
 ||888sport.com.br
 ||www.888sport.com
 ||www.888sport.com.br
-
-# 888casino
 ||888casino.com
 ||888casino.com.br
 ||www.888casino.com
 ||www.888casino.com.br
-
-# 888poker
 ||888poker.com
 ||888poker.com.br
 ||www.888poker.com
 ||www.888poker.com.br
-
-# PokerStars
 ||pokerstars.com
 ||pokerstars.com.br
 ||www.pokerstars.com
 ||www.pokerstars.com.br
-
-# PokerStars Sports
 ||pokerstarssports.com
 ||www.pokerstarssports.com
-
-# PartyPoker
 ||partypoker.com
 ||partypoker.com.br
 ||www.partypoker.com
 ||www.partypoker.com.br
-
-# William Hill
 ||williamhill.com
 ||williamhill.com.br
 ||www.williamhill.com
 ||www.williamhill.com.br
-
-# Ladbrokes
 ||ladbrokes.com
 ||www.ladbrokes.com
-
-# Coral
 ||coral.co.uk
 ||www.coral.co.uk
-
-# Unibet
 ||unibet.com
 ||unibet.com.br
 ||www.unibet.com
 ||www.unibet.com.br
-
-# Betsson
 ||betsson.com
 ||www.betsson.com
-
-# LeoVegas
 ||leovegas.com
 ||www.leovegas.com
-
-# Casumo
 ||casumo.com
 ||www.casumo.com
-
-# Betway
 ||betway.com
 ||betway.com.br
 ||www.betway.com
 ||www.betway.com.br
-
-# Parimatch
 ||parimatch.com
 ||parimatch.com.br
 ||www.parimatch.com
 ||www.parimatch.com.br
-
-# Pinnacle
 ||pinnacle.com
 ||www.pinnacle.com
-
-# Rivalry
 ||rivalry.com
 ||www.rivalry.com
-
-# Lotomania
 ||lotomania.com
 ||www.lotomania.com
-
-# Mega Sena (sites não oficiais)
 ||megasena.bet
 ||www.megasena.bet
-
-# Jogo do Bicho Online
 ||jogodobichoonline.com
 ||www.jogodobichoonline.com
 ||jogodobicho.com
 ||www.jogodobicho.com
 ||jogodobicho.com.br
 ||www.jogodobicho.com.br
-
-# Jogos de Azar
 ||jogosdeazar.com
 ||jogosdeazar.com.br
 ||www.jogosdeazar.com
 ||www.jogosdeazar.com.br
-
-# Casino.com
 ||casino.com
 ||www.casino.com
-
-# PokerStars Casino
 ||pokerstarscasino.com
 ||www.pokerstarscasino.com
-
-# BetMGM
 ||betmgm.com
 ||www.betmgm.com
-
-# DraftKings
 ||draftkings.com
 ||www.draftkings.com
-
-# FanDuel
 ||fanduel.com
 ||www.fanduel.com
-
-# BetRivers
 ||betrivers.com
 ||www.betrivers.com
-
-# PointsBet
 ||pointsbet.com
 ||www.pointsbet.com
-
-# Caesars Sportsbook
 ||caesarssportsbook.com
 ||www.caesarssportsbook.com
-
-# Golden Nugget Casino
 ||goldennuggetcasino.com
 ||www.goldennuggetcasino.com
-
-# Hard Rock Bet
 ||hardrock.bet
 ||www.hardrock.bet
-
-# Tipico
 ||tipico.com
 ||www.tipico.com
-
-# Stake
 ||stake.com
 ||www.stake.com
-
-# Rollbit
 ||rollbit.com
 ||www.rollbit.com
-
-# Roobet
 ||roobet.com
 ||www.roobet.com
-
-# Cloudbet
 ||cloudbet.com
 ||www.cloudbet.com
-
-# BC.Game
 ||bc.game
 ||www.bc.game
-
-# Bitcasino
 ||bitcasino.io
 ||www.bitcasino.io
-
-# Sportsbet.io
 ||sportsbet.io
 ||www.sportsbet.io
-
-# mBit Casino
 ||mbitcasino.io
 ||www.mbitcasino.io
-
-# Fairspin
 ||fairspin.io
 ||www.fairspin.io
-
-# Slots.lv
 ||slots.lv
 ||www.slots.lv
-
-# Bovada
 ||bovada.lv
 ||www.bovada.lv
-
-# MyBookie
 ||mybookie.ag
 ||www.mybookie.ag
-
-# BetOnline
 ||betonline.ag
 ||www.betonline.ag
-
-# SportsBetting.ag
 ||sportsbetting.ag
 ||www.sportsbetting.ag
-
-# Intertops
 ||intertops.eu
 ||www.intertops.eu
-
-# Ignition Casino
 ||ignitioncasino.eu
 ||www.ignitioncasino.eu
-
-# Café Casino
 ||cafecasino.lv
 ||www.cafecasino.lv
-
-# Red Dog Casino
 ||reddogcasino.com
 ||www.reddogcasino.com
-
-# Wild Casino
 ||wildcasino.ag
 ||www.wildcasino.ag
-
-# Super Slots
 ||superslots.ag
 ||www.superslots.ag
-
-# Las Atlantis
 ||lasatlantiscasino.com
 ||www.lasatlantiscasino.com
-
-# El Royale Casino
 ||elroyalecasino.com
 ||www.elroyalecasino.com
-
-# Slots Empire
 ||slotsempire.com
 ||www.slotsempire.com
-
-# Lucky Creek
 ||luckycreek.com
 ||www.luckycreek.com
-
-# Sloto'Cash
 ||slotocash.im
 ||www.slotocash.im
-
-# Brango Casino
 ||brango.com
 ||www.brango.com
-
-# Jackpot City
 ||jackpotcitycasino.com
 ||www.jackpotcitycasino.com
-
-# Spin Casino
 ||spincasino.com
 ||www.spincasino.com
-
-# Royal Vegas
 ||royalvegas.com
 ||www.royalvegas.com
-
-# All Slots Casino
 ||allslotscasino.com
 ||www.allslotscasino.com
-
-# Gaming Club
 ||gamingclub.com
 ||www.gamingclub.com
-
-# Ruby Fortune
 ||rubyfortune.com
 ||www.rubyfortune.com
-
-# Mummy's Gold
 ||mummysgold.com
 ||www.mummysgold.com
-
-# Lucky Nugget
 ||luckynuggetcasino.com
 ||www.luckynuggetcasino.com
-
-# Platinum Play
 ||platinumplaycasino.com
 ||www.platinumplaycasino.com
-
-# Casino Action
 ||casinoaction.com
 ||www.casinoaction.com
-
-# Casino Classic
 ||casinoclassic.com
 ||www.casinoclassic.com
-
-# Mr Green
 ||mrgreen.com
 ||www.mrgreen.com
-
-# NetBet
 ||netbet.com
 ||www.netbet.com
-
-# Betclic
 ||betclic.com
 ||www.betclic.com
-
-# Vbet
 ||vbet.com
 ||www.vbet.com
-
-# Melbet
 ||melbet.com
 ||www.melbet.com
-
-# 22Bet
 ||22bet.com
 ||www.22bet.com
-
-# 20Bet
 ||20bet.com
 ||www.20bet.com
-
-# IviBet
 ||ivibet.com
 ||www.ivibet.com
-
-# Megapari
 ||megapari.com
 ||www.megapari.com
-
-# Betiton
 ||betiton.com
 ||www.betiton.com
-
-# Dafabet
 ||dafabet.com
 ||www.dafabet.com
-
-# Mostbet
 ||mostbet.com
 ||www.mostbet.com
-
-# 1Win
 ||1win.com
 ||www.1win.com
 ||1win.xyz
 ||www.1win.xyz
-
-# Blaze
 ||blaze.com
 ||blaze.bet.br
 ||www.blaze.com
 ||www.blaze.bet.br
-
-# Esportes da Sorte
 ||esportesdasorte.com
 ||www.esportesdasorte.com
 ||esportesdasorte.com.br
 ||www.esportesdasorte.com.br
-
-# Estrela Bet
 ||estrelabet.com
 ||www.estrelabet.com
 ||estrelabet.com.br
 ||www.estrelabet.com.br
-
-# Vai de Bet
 ||vaidebet.com
 ||www.vaidebet.com
 ||vaidebet.com.br
 ||www.vaidebet.com.br
-
-# Superbet
 ||superbet.com
 ||www.superbet.com
 ||superbet.com.br
 ||www.superbet.com.br
-
-# F12 Bet
 ||f12.bet
 ||www.f12.bet
-
-# Pixbet
 ||pixbet.com
 ||www.pixbet.com
-
-# KTO
 ||kto.bet
 ||www.kto.bet
-
-# Betnacional
 ||betnacional.com
 ||www.betnacional.com
-
-# Betting.bet.br
 ||betting.bet.br
 ||www.betting.bet.br
-
-# Br4bet
 ||br4bet.com
 ||www.br4bet.com
-
-# Novibet
 ||novibet.com
 ||www.novibet.com
-
-# Solverde
 ||solverde.pt
 ||www.solverde.pt
-
-# Placard
 ||placard.pt
 ||www.placard.pt
-
-# Casino Portugal
 ||casinoportugal.pt
 ||www.casinoportugal.pt
-
-# Bet.pt
 ||bet.pt
 ||www.bet.pt
-
-# FullTilt
 ||fulltilt.com
 ||www.fulltilt.com
-
-# GGPoker
 ||ggpoker.com
 ||www.ggpoker.com
-
-# Natural8
 ||natural8.com
 ||www.natural8.com
-
-# WPT Global
 ||wptglobal.com
 ||www.wptglobal.com
-
-# ACR Poker
 ||americascardroom.eu
 ||www.americascardroom.eu
-
-# ClubGG
 ||clubgg.com
 ||www.clubgg.com
-
-# Winamax
 ||winamax.fr
 ||www.winamax.fr
-
-# PMU
 ||pmu.fr
 ||www.pmu.fr
-
-# FDJ
 ||fdj.fr
 ||www.fdj.fr
-
-# Codere
 ||codere.com
 ||www.codere.com
 ||codere.com.br
 ||www.codere.com.br
-
-# Betsson Brasil
 ||betsson.com.br
 ||www.betsson.com.br
-
-# NSX Bet
 ||nsxbet.com
 ||www.nsxbet.com
-
-# Sportaza
 ||sportaza.com
 ||www.sportaza.com
-
-# Amunra
 ||amunra.com
 ||www.amunra.com
-
-# Rabona
 ||rabona.com
 ||www.rabona.com
-
-# Slottica
 ||slottica.com
 ||www.slottica.com
-
-# Librabet
 ||librabet.com
 ||www.librabet.com
-
-# Ivibet
 ||ivibet.com
 ||www.ivibet.com
-
-# Casimba
 ||casimba.com
 ||www.casimba.com
-
-# Bob Casino
 ||bobcasino.com
 ||www.bobcasino.com
-
-# Bizzo Casino
 ||bizzocasino.com
 ||www.bizzocasino.com
-
-# Wazamba
 ||wazamba.com
 ||www.wazamba.com
-
-# Conquestador
 ||conquestador.com
 ||www.conquestador.com
-
-# Jet Casino
 ||jetcasino.com
 ||www.jetcasino.com
-
-# Slots City
 ||slotscity.com
 ||www.slotscity.com
-
-# PlayAmo
 ||playamo.com
 ||www.playamo.com
-
-# BitStarz
 ||bitstarz.com
 ||www.bitstarz.com
-
-# King Billy
 ||kingbillycasino.com
 ||www.kingbillycasino.com
-
-# Katsubet
 ||katsubet.com
 ||www.katsubet.com
-
-# Oshi Casino
 ||oshicasino.com
 ||www.oshicasino.com
-
-# Bao Casino
 ||baocasino.com
 ||www.baocasino.com
-
-# Gunsbet
 ||gunsbet.com
 ||www.gunsbet.com
-
-# Crash Game (sites genéricos)
 ||crashgame.com
 ||www.crashgame.com
-
-# Aviator (sites não oficiais)
 ||aviatorbet.com
 ||www.aviatorbet.com
-
-# Mines Game
 ||minesgame.com
 ||www.minesgame.com
-
-# Fortune Tiger (sites não oficiais)
 ||fortunetiger.bet
 ||www.fortunetiger.bet
-
-# PG Soft (jogos)
 ||pgsoft.com
 ||www.pgsoft.com
-
-# Pragmatic Play (jogos)
 ||pragmaticplay.com
 ||www.pragmaticplay.com
