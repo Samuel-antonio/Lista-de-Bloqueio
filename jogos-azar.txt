@@ -1,617 +1,617 @@
 # Bet365
-127.0.0.1 bet365.com
-127.0.0.1 bet365.com.br
-127.0.0.1 www.bet365.com
-127.0.0.1 www.bet365.com.br
+||bet365.com
+||bet365.com.br
+||www.bet365.com
+||www.bet365.com.br
 
 # Betano
-127.0.0.1 betano.com
-127.0.0.1 betano.com.br
-127.0.0.1 www.betano.com
-127.0.0.1 www.betano.com.br
+||betano.com
+||betano.com.br
+||www.betano.com
+||www.betano.com.br
 
 # Sportingbet
-127.0.0.1 sportingbet.com
-127.0.0.1 sportingbet.com.br
-127.0.0.1 www.sportingbet.com
-127.0.0.1 www.sportingbet.com.br
+||sportingbet.com
+||sportingbet.com.br
+||www.sportingbet.com
+||www.sportingbet.com.br
 
 # Betfair
-127.0.0.1 betfair.com
-127.0.0.1 betfair.com.br
-127.0.0.1 www.betfair.com
-127.0.0.1 www.betfair.com.br
+||betfair.com
+||betfair.com.br
+||www.betfair.com
+||www.betfair.com.br
 
 # Bwin
-127.0.0.1 bwin.com
-127.0.0.1 bwin.com.br
-127.0.0.1 www.bwin.com
-127.0.0.1 www.bwin.com.br
+||bwin.com
+||bwin.com.br
+||www.bwin.com
+||www.bwin.com.br
 
 # 1xBet
-127.0.0.1 1xbet.com
-127.0.0.1 1xbet.com.br
-127.0.0.1 www.1xbet.com
-127.0.0.1 www.1xbet.com.br
+||1xbet.com
+||1xbet.com.br
+||www.1xbet.com
+||www.1xbet.com.br
 
 # 888sport
-127.0.0.1 888sport.com
-127.0.0.1 888sport.com.br
-127.0.0.1 www.888sport.com
-127.0.0.1 www.888sport.com.br
+||888sport.com
+||888sport.com.br
+||www.888sport.com
+||www.888sport.com.br
 
 # 888casino
-127.0.0.1 888casino.com
-127.0.0.1 888casino.com.br
-127.0.0.1 www.888casino.com
-127.0.0.1 www.888casino.com.br
+||888casino.com
+||888casino.com.br
+||www.888casino.com
+||www.888casino.com.br
 
 # 888poker
-127.0.0.1 888poker.com
-127.0.0.1 888poker.com.br
-127.0.0.1 www.888poker.com
-127.0.0.1 www.888poker.com.br
+||888poker.com
+||888poker.com.br
+||www.888poker.com
+||www.888poker.com.br
 
 # PokerStars
-127.0.0.1 pokerstars.com
-127.0.0.1 pokerstars.com.br
-127.0.0.1 www.pokerstars.com
-127.0.0.1 www.pokerstars.com.br
+||pokerstars.com
+||pokerstars.com.br
+||www.pokerstars.com
+||www.pokerstars.com.br
 
 # PokerStars Sports
-127.0.0.1 pokerstarssports.com
-127.0.0.1 www.pokerstarssports.com
+||pokerstarssports.com
+||www.pokerstarssports.com
 
 # PartyPoker
-127.0.0.1 partypoker.com
-127.0.0.1 partypoker.com.br
-127.0.0.1 www.partypoker.com
-127.0.0.1 www.partypoker.com.br
+||partypoker.com
+||partypoker.com.br
+||www.partypoker.com
+||www.partypoker.com.br
 
 # William Hill
-127.0.0.1 williamhill.com
-127.0.0.1 williamhill.com.br
-127.0.0.1 www.williamhill.com
-127.0.0.1 www.williamhill.com.br
+||williamhill.com
+||williamhill.com.br
+||www.williamhill.com
+||www.williamhill.com.br
 
 # Ladbrokes
-127.0.0.1 ladbrokes.com
-127.0.0.1 www.ladbrokes.com
+||ladbrokes.com
+||www.ladbrokes.com
 
 # Coral
-127.0.0.1 coral.co.uk
-127.0.0.1 www.coral.co.uk
+||coral.co.uk
+||www.coral.co.uk
 
 # Unibet
-127.0.0.1 unibet.com
-127.0.0.1 unibet.com.br
-127.0.0.1 www.unibet.com
-127.0.0.1 www.unibet.com.br
+||unibet.com
+||unibet.com.br
+||www.unibet.com
+||www.unibet.com.br
 
 # Betsson
-127.0.0.1 betsson.com
-127.0.0.1 www.betsson.com
+||betsson.com
+||www.betsson.com
 
 # LeoVegas
-127.0.0.1 leovegas.com
-127.0.0.1 www.leovegas.com
+||leovegas.com
+||www.leovegas.com
 
 # Casumo
-127.0.0.1 casumo.com
-127.0.0.1 www.casumo.com
+||casumo.com
+||www.casumo.com
 
 # Betway
-127.0.0.1 betway.com
-127.0.0.1 betway.com.br
-127.0.0.1 www.betway.com
-127.0.0.1 www.betway.com.br
+||betway.com
+||betway.com.br
+||www.betway.com
+||www.betway.com.br
 
 # Parimatch
-127.0.0.1 parimatch.com
-127.0.0.1 parimatch.com.br
-127.0.0.1 www.parimatch.com
-127.0.0.1 www.parimatch.com.br
+||parimatch.com
+||parimatch.com.br
+||www.parimatch.com
+||www.parimatch.com.br
 
 # Pinnacle
-127.0.0.1 pinnacle.com
-127.0.0.1 www.pinnacle.com
+||pinnacle.com
+||www.pinnacle.com
 
 # Rivalry
-127.0.0.1 rivalry.com
-127.0.0.1 www.rivalry.com
+||rivalry.com
+||www.rivalry.com
 
 # Lotomania
-127.0.0.1 lotomania.com
-127.0.0.1 www.lotomania.com
+||lotomania.com
+||www.lotomania.com
 
 # Mega Sena (sites não oficiais)
-127.0.0.1 megasena.bet
-127.0.0.1 www.megasena.bet
+||megasena.bet
+||www.megasena.bet
 
 # Jogo do Bicho Online
-127.0.0.1 jogodobichoonline.com
-127.0.0.1 www.jogodobichoonline.com
-127.0.0.1 jogodobicho.com
-127.0.0.1 www.jogodobicho.com
-127.0.0.1 jogodobicho.com.br
-127.0.0.1 www.jogodobicho.com.br
+||jogodobichoonline.com
+||www.jogodobichoonline.com
+||jogodobicho.com
+||www.jogodobicho.com
+||jogodobicho.com.br
+||www.jogodobicho.com.br
 
 # Jogos de Azar
-127.0.0.1 jogosdeazar.com
-127.0.0.1 jogosdeazar.com.br
-127.0.0.1 www.jogosdeazar.com
-127.0.0.1 www.jogosdeazar.com.br
+||jogosdeazar.com
+||jogosdeazar.com.br
+||www.jogosdeazar.com
+||www.jogosdeazar.com.br
 
 # Casino.com
-127.0.0.1 casino.com
-127.0.0.1 www.casino.com
+||casino.com
+||www.casino.com
 
 # PokerStars Casino
-127.0.0.1 pokerstarscasino.com
-127.0.0.1 www.pokerstarscasino.com
+||pokerstarscasino.com
+||www.pokerstarscasino.com
 
 # BetMGM
-127.0.0.1 betmgm.com
-127.0.0.1 www.betmgm.com
+||betmgm.com
+||www.betmgm.com
 
 # DraftKings
-127.0.0.1 draftkings.com
-127.0.0.1 www.draftkings.com
+||draftkings.com
+||www.draftkings.com
 
 # FanDuel
-127.0.0.1 fanduel.com
-127.0.0.1 www.fanduel.com
+||fanduel.com
+||www.fanduel.com
 
 # BetRivers
-127.0.0.1 betrivers.com
-127.0.0.1 www.betrivers.com
+||betrivers.com
+||www.betrivers.com
 
 # PointsBet
-127.0.0.1 pointsbet.com
-127.0.0.1 www.pointsbet.com
+||pointsbet.com
+||www.pointsbet.com
 
 # Caesars Sportsbook
-127.0.0.1 caesarssportsbook.com
-127.0.0.1 www.caesarssportsbook.com
+||caesarssportsbook.com
+||www.caesarssportsbook.com
 
 # Golden Nugget Casino
-127.0.0.1 goldennuggetcasino.com
-127.0.0.1 www.goldennuggetcasino.com
+||goldennuggetcasino.com
+||www.goldennuggetcasino.com
 
 # Hard Rock Bet
-127.0.0.1 hardrock.bet
-127.0.0.1 www.hardrock.bet
+||hardrock.bet
+||www.hardrock.bet
 
 # Tipico
-127.0.0.1 tipico.com
-127.0.0.1 www.tipico.com
+||tipico.com
+||www.tipico.com
 
 # Stake
-127.0.0.1 stake.com
-127.0.0.1 www.stake.com
+||stake.com
+||www.stake.com
 
 # Rollbit
-127.0.0.1 rollbit.com
-127.0.0.1 www.rollbit.com
+||rollbit.com
+||www.rollbit.com
 
 # Roobet
-127.0.0.1 roobet.com
-127.0.0.1 www.roobet.com
+||roobet.com
+||www.roobet.com
 
 # Cloudbet
-127.0.0.1 cloudbet.com
-127.0.0.1 www.cloudbet.com
+||cloudbet.com
+||www.cloudbet.com
 
 # BC.Game
-127.0.0.1 bc.game
-127.0.0.1 www.bc.game
+||bc.game
+||www.bc.game
 
 # Bitcasino
-127.0.0.1 bitcasino.io
-127.0.0.1 www.bitcasino.io
+||bitcasino.io
+||www.bitcasino.io
 
 # Sportsbet.io
-127.0.0.1 sportsbet.io
-127.0.0.1 www.sportsbet.io
+||sportsbet.io
+||www.sportsbet.io
 
 # mBit Casino
-127.0.0.1 mbitcasino.io
-127.0.0.1 www.mbitcasino.io
+||mbitcasino.io
+||www.mbitcasino.io
 
 # Fairspin
-127.0.0.1 fairspin.io
-127.0.0.1 www.fairspin.io
+||fairspin.io
+||www.fairspin.io
 
 # Slots.lv
-127.0.0.1 slots.lv
-127.0.0.1 www.slots.lv
+||slots.lv
+||www.slots.lv
 
 # Bovada
-127.0.0.1 bovada.lv
-127.0.0.1 www.bovada.lv
+||bovada.lv
+||www.bovada.lv
 
 # MyBookie
-127.0.0.1 mybookie.ag
-127.0.0.1 www.mybookie.ag
+||mybookie.ag
+||www.mybookie.ag
 
 # BetOnline
-127.0.0.1 betonline.ag
-127.0.0.1 www.betonline.ag
+||betonline.ag
+||www.betonline.ag
 
 # SportsBetting.ag
-127.0.0.1 sportsbetting.ag
-127.0.0.1 www.sportsbetting.ag
+||sportsbetting.ag
+||www.sportsbetting.ag
 
 # Intertops
-127.0.0.1 intertops.eu
-127.0.0.1 www.intertops.eu
+||intertops.eu
+||www.intertops.eu
 
 # Ignition Casino
-127.0.0.1 ignitioncasino.eu
-127.0.0.1 www.ignitioncasino.eu
+||ignitioncasino.eu
+||www.ignitioncasino.eu
 
 # Café Casino
-127.0.0.1 cafecasino.lv
-127.0.0.1 www.cafecasino.lv
+||cafecasino.lv
+||www.cafecasino.lv
 
 # Red Dog Casino
-127.0.0.1 reddogcasino.com
-127.0.0.1 www.reddogcasino.com
+||reddogcasino.com
+||www.reddogcasino.com
 
 # Wild Casino
-127.0.0.1 wildcasino.ag
-127.0.0.1 www.wildcasino.ag
+||wildcasino.ag
+||www.wildcasino.ag
 
 # Super Slots
-127.0.0.1 superslots.ag
-127.0.0.1 www.superslots.ag
+||superslots.ag
+||www.superslots.ag
 
 # Las Atlantis
-127.0.0.1 lasatlantiscasino.com
-127.0.0.1 www.lasatlantiscasino.com
+||lasatlantiscasino.com
+||www.lasatlantiscasino.com
 
 # El Royale Casino
-127.0.0.1 elroyalecasino.com
-127.0.0.1 www.elroyalecasino.com
+||elroyalecasino.com
+||www.elroyalecasino.com
 
 # Slots Empire
-127.0.0.1 slotsempire.com
-127.0.0.1 www.slotsempire.com
+||slotsempire.com
+||www.slotsempire.com
 
 # Lucky Creek
-127.0.0.1 luckycreek.com
-127.0.0.1 www.luckycreek.com
+||luckycreek.com
+||www.luckycreek.com
 
 # Sloto'Cash
-127.0.0.1 slotocash.im
-127.0.0.1 www.slotocash.im
+||slotocash.im
+||www.slotocash.im
 
 # Brango Casino
-127.0.0.1 brango.com
-127.0.0.1 www.brango.com
+||brango.com
+||www.brango.com
 
 # Jackpot City
-127.0.0.1 jackpotcitycasino.com
-127.0.0.1 www.jackpotcitycasino.com
+||jackpotcitycasino.com
+||www.jackpotcitycasino.com
 
 # Spin Casino
-127.0.0.1 spincasino.com
-127.0.0.1 www.spincasino.com
+||spincasino.com
+||www.spincasino.com
 
 # Royal Vegas
-127.0.0.1 royalvegas.com
-127.0.0.1 www.royalvegas.com
+||royalvegas.com
+||www.royalvegas.com
 
 # All Slots Casino
-127.0.0.1 allslotscasino.com
-127.0.0.1 www.allslotscasino.com
+||allslotscasino.com
+||www.allslotscasino.com
 
 # Gaming Club
-127.0.0.1 gamingclub.com
-127.0.0.1 www.gamingclub.com
+||gamingclub.com
+||www.gamingclub.com
 
 # Ruby Fortune
-127.0.0.1 rubyfortune.com
-127.0.0.1 www.rubyfortune.com
+||rubyfortune.com
+||www.rubyfortune.com
 
 # Mummy's Gold
-127.0.0.1 mummysgold.com
-127.0.0.1 www.mummysgold.com
+||mummysgold.com
+||www.mummysgold.com
 
 # Lucky Nugget
-127.0.0.1 luckynuggetcasino.com
-127.0.0.1 www.luckynuggetcasino.com
+||luckynuggetcasino.com
+||www.luckynuggetcasino.com
 
 # Platinum Play
-127.0.0.1 platinumplaycasino.com
-127.0.0.1 www.platinumplaycasino.com
+||platinumplaycasino.com
+||www.platinumplaycasino.com
 
 # Casino Action
-127.0.0.1 casinoaction.com
-127.0.0.1 www.casinoaction.com
+||casinoaction.com
+||www.casinoaction.com
 
 # Casino Classic
-127.0.0.1 casinoclassic.com
-127.0.0.1 www.casinoclassic.com
+||casinoclassic.com
+||www.casinoclassic.com
 
 # Mr Green
-127.0.0.1 mrgreen.com
-127.0.0.1 www.mrgreen.com
+||mrgreen.com
+||www.mrgreen.com
 
 # NetBet
-127.0.0.1 netbet.com
-127.0.0.1 www.netbet.com
+||netbet.com
+||www.netbet.com
 
 # Betclic
-127.0.0.1 betclic.com
-127.0.0.1 www.betclic.com
+||betclic.com
+||www.betclic.com
 
 # Vbet
-127.0.0.1 vbet.com
-127.0.0.1 www.vbet.com
+||vbet.com
+||www.vbet.com
 
 # Melbet
-127.0.0.1 melbet.com
-127.0.0.1 www.melbet.com
+||melbet.com
+||www.melbet.com
 
 # 22Bet
-127.0.0.1 22bet.com
-127.0.0.1 www.22bet.com
+||22bet.com
+||www.22bet.com
 
 # 20Bet
-127.0.0.1 20bet.com
-127.0.0.1 www.20bet.com
+||20bet.com
+||www.20bet.com
 
 # IviBet
-127.0.0.1 ivibet.com
-127.0.0.1 www.ivibet.com
+||ivibet.com
+||www.ivibet.com
 
 # Megapari
-127.0.0.1 megapari.com
-127.0.0.1 www.megapari.com
+||megapari.com
+||www.megapari.com
 
 # Betiton
-127.0.0.1 betiton.com
-127.0.0.1 www.betiton.com
+||betiton.com
+||www.betiton.com
 
 # Dafabet
-127.0.0.1 dafabet.com
-127.0.0.1 www.dafabet.com
+||dafabet.com
+||www.dafabet.com
 
 # Mostbet
-127.0.0.1 mostbet.com
-127.0.0.1 www.mostbet.com
+||mostbet.com
+||www.mostbet.com
 
 # 1Win
-127.0.0.1 1win.com
-127.0.0.1 www.1win.com
-127.0.0.1 1win.xyz
-127.0.0.1 www.1win.xyz
+||1win.com
+||www.1win.com
+||1win.xyz
+||www.1win.xyz
 
 # Blaze
-127.0.0.1 blaze.com
-127.0.0.1 blaze.bet.br
-127.0.0.1 www.blaze.com
-127.0.0.1 www.blaze.bet.br
+||blaze.com
+||blaze.bet.br
+||www.blaze.com
+||www.blaze.bet.br
 
 # Esportes da Sorte
-127.0.0.1 esportesdasorte.com
-127.0.0.1 www.esportesdasorte.com
-127.0.0.1 esportesdasorte.com.br
-127.0.0.1 www.esportesdasorte.com.br
+||esportesdasorte.com
+||www.esportesdasorte.com
+||esportesdasorte.com.br
+||www.esportesdasorte.com.br
 
 # Estrela Bet
-127.0.0.1 estrelabet.com
-127.0.0.1 www.estrelabet.com
-127.0.0.1 estrelabet.com.br
-127.0.0.1 www.estrelabet.com.br
+||estrelabet.com
+||www.estrelabet.com
+||estrelabet.com.br
+||www.estrelabet.com.br
 
 # Vai de Bet
-127.0.0.1 vaidebet.com
-127.0.0.1 www.vaidebet.com
-127.0.0.1 vaidebet.com.br
-127.0.0.1 www.vaidebet.com.br
+||vaidebet.com
+||www.vaidebet.com
+||vaidebet.com.br
+||www.vaidebet.com.br
 
 # Superbet
-127.0.0.1 superbet.com
-127.0.0.1 www.superbet.com
-127.0.0.1 superbet.com.br
-127.0.0.1 www.superbet.com.br
+||superbet.com
+||www.superbet.com
+||superbet.com.br
+||www.superbet.com.br
 
 # F12 Bet
-127.0.0.1 f12.bet
-127.0.0.1 www.f12.bet
+||f12.bet
+||www.f12.bet
 
 # Pixbet
-127.0.0.1 pixbet.com
-127.0.0.1 www.pixbet.com
+||pixbet.com
+||www.pixbet.com
 
 # KTO
-127.0.0.1 kto.bet
-127.0.0.1 www.kto.bet
+||kto.bet
+||www.kto.bet
 
 # Betnacional
-127.0.0.1 betnacional.com
-127.0.0.1 www.betnacional.com
+||betnacional.com
+||www.betnacional.com
 
 # Betting.bet.br
-127.0.0.1 betting.bet.br
-127.0.0.1 www.betting.bet.br
+||betting.bet.br
+||www.betting.bet.br
 
 # Br4bet
-127.0.0.1 br4bet.com
-127.0.0.1 www.br4bet.com
+||br4bet.com
+||www.br4bet.com
 
 # Novibet
-127.0.0.1 novibet.com
-127.0.0.1 www.novibet.com
+||novibet.com
+||www.novibet.com
 
 # Solverde
-127.0.0.1 solverde.pt
-127.0.0.1 www.solverde.pt
+||solverde.pt
+||www.solverde.pt
 
 # Placard
-127.0.0.1 placard.pt
-127.0.0.1 www.placard.pt
+||placard.pt
+||www.placard.pt
 
 # Casino Portugal
-127.0.0.1 casinoportugal.pt
-127.0.0.1 www.casinoportugal.pt
+||casinoportugal.pt
+||www.casinoportugal.pt
 
 # Bet.pt
-127.0.0.1 bet.pt
-127.0.0.1 www.bet.pt
+||bet.pt
+||www.bet.pt
 
 # FullTilt
-127.0.0.1 fulltilt.com
-127.0.0.1 www.fulltilt.com
+||fulltilt.com
+||www.fulltilt.com
 
 # GGPoker
-127.0.0.1 ggpoker.com
-127.0.0.1 www.ggpoker.com
+||ggpoker.com
+||www.ggpoker.com
 
 # Natural8
-127.0.0.1 natural8.com
-127.0.0.1 www.natural8.com
+||natural8.com
+||www.natural8.com
 
 # WPT Global
-127.0.0.1 wptglobal.com
-127.0.0.1 www.wptglobal.com
+||wptglobal.com
+||www.wptglobal.com
 
 # ACR Poker
-127.0.0.1 americascardroom.eu
-127.0.0.1 www.americascardroom.eu
+||americascardroom.eu
+||www.americascardroom.eu
 
 # ClubGG
-127.0.0.1 clubgg.com
-127.0.0.1 www.clubgg.com
+||clubgg.com
+||www.clubgg.com
 
 # Winamax
-127.0.0.1 winamax.fr
-127.0.0.1 www.winamax.fr
+||winamax.fr
+||www.winamax.fr
 
 # PMU
-127.0.0.1 pmu.fr
-127.0.0.1 www.pmu.fr
+||pmu.fr
+||www.pmu.fr
 
 # FDJ
-127.0.0.1 fdj.fr
-127.0.0.1 www.fdj.fr
+||fdj.fr
+||www.fdj.fr
 
 # Codere
-127.0.0.1 codere.com
-127.0.0.1 www.codere.com
-127.0.0.1 codere.com.br
-127.0.0.1 www.codere.com.br
+||codere.com
+||www.codere.com
+||codere.com.br
+||www.codere.com.br
 
 # Betsson Brasil
-127.0.0.1 betsson.com.br
-127.0.0.1 www.betsson.com.br
+||betsson.com.br
+||www.betsson.com.br
 
 # NSX Bet
-127.0.0.1 nsxbet.com
-127.0.0.1 www.nsxbet.com
+||nsxbet.com
+||www.nsxbet.com
 
 # Sportaza
-127.0.0.1 sportaza.com
-127.0.0.1 www.sportaza.com
+||sportaza.com
+||www.sportaza.com
 
 # Amunra
-127.0.0.1 amunra.com
-127.0.0.1 www.amunra.com
+||amunra.com
+||www.amunra.com
 
 # Rabona
-127.0.0.1 rabona.com
-127.0.0.1 www.rabona.com
+||rabona.com
+||www.rabona.com
 
 # Slottica
-127.0.0.1 slottica.com
-127.0.0.1 www.slottica.com
+||slottica.com
+||www.slottica.com
 
 # Librabet
-127.0.0.1 librabet.com
-127.0.0.1 www.librabet.com
+||librabet.com
+||www.librabet.com
 
 # Ivibet
-127.0.0.1 ivibet.com
-127.0.0.1 www.ivibet.com
+||ivibet.com
+||www.ivibet.com
 
 # Casimba
-127.0.0.1 casimba.com
-127.0.0.1 www.casimba.com
+||casimba.com
+||www.casimba.com
 
 # Bob Casino
-127.0.0.1 bobcasino.com
-127.0.0.1 www.bobcasino.com
+||bobcasino.com
+||www.bobcasino.com
 
 # Bizzo Casino
-127.0.0.1 bizzocasino.com
-127.0.0.1 www.bizzocasino.com
+||bizzocasino.com
+||www.bizzocasino.com
 
 # Wazamba
-127.0.0.1 wazamba.com
-127.0.0.1 www.wazamba.com
+||wazamba.com
+||www.wazamba.com
 
 # Conquestador
-127.0.0.1 conquestador.com
-127.0.0.1 www.conquestador.com
+||conquestador.com
+||www.conquestador.com
 
 # Jet Casino
-127.0.0.1 jetcasino.com
-127.0.0.1 www.jetcasino.com
+||jetcasino.com
+||www.jetcasino.com
 
 # Slots City
-127.0.0.1 slotscity.com
-127.0.0.1 www.slotscity.com
+||slotscity.com
+||www.slotscity.com
 
 # PlayAmo
-127.0.0.1 playamo.com
-127.0.0.1 www.playamo.com
+||playamo.com
+||www.playamo.com
 
 # BitStarz
-127.0.0.1 bitstarz.com
-127.0.0.1 www.bitstarz.com
+||bitstarz.com
+||www.bitstarz.com
 
 # King Billy
-127.0.0.1 kingbillycasino.com
-127.0.0.1 www.kingbillycasino.com
+||kingbillycasino.com
+||www.kingbillycasino.com
 
 # Katsubet
-127.0.0.1 katsubet.com
-127.0.0.1 www.katsubet.com
+||katsubet.com
+||www.katsubet.com
 
 # Oshi Casino
-127.0.0.1 oshicasino.com
-127.0.0.1 www.oshicasino.com
+||oshicasino.com
+||www.oshicasino.com
 
 # Bao Casino
-127.0.0.1 baocasino.com
-127.0.0.1 www.baocasino.com
+||baocasino.com
+||www.baocasino.com
 
 # Gunsbet
-127.0.0.1 gunsbet.com
-127.0.0.1 www.gunsbet.com
+||gunsbet.com
+||www.gunsbet.com
 
 # Crash Game (sites genéricos)
-127.0.0.1 crashgame.com
-127.0.0.1 www.crashgame.com
+||crashgame.com
+||www.crashgame.com
 
 # Aviator (sites não oficiais)
-127.0.0.1 aviatorbet.com
-127.0.0.1 www.aviatorbet.com
+||aviatorbet.com
+||www.aviatorbet.com
 
 # Mines Game
-127.0.0.1 minesgame.com
-127.0.0.1 www.minesgame.com
+||minesgame.com
+||www.minesgame.com
 
 # Fortune Tiger (sites não oficiais)
-127.0.0.1 fortunetiger.bet
-127.0.0.1 www.fortunetiger.bet
+||fortunetiger.bet
+||www.fortunetiger.bet
 
 # PG Soft (jogos)
-127.0.0.1 pgsoft.com
-127.0.0.1 www.pgsoft.com
+||pgsoft.com
+||www.pgsoft.com
 
 # Pragmatic Play (jogos)
-127.0.0.1 pragmaticplay.com
-127.0.0.1 www.pragmaticplay.com
+||pragmaticplay.com
+||www.pragmaticplay.com
