@@ -2272,3 +2272,5 @@
 127.0.0.1 www.pornobr.net
 127.0.0.1 www.casadoscontos.com.br
 127.0.0.1 casadoscontos.com.br
+127.0.0.1 www.theblowers.com
+127.0.0.1 theblowers.com
